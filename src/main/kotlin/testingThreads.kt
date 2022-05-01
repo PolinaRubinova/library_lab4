@@ -1,3 +1,4 @@
+import Interaction.DatabaseInteraction
 import com.zaxxer.hikari.HikariConfig
 import com.zaxxer.hikari.HikariDataSource
 import org.jetbrains.exposed.sql.Database

@@ -1,6 +1,5 @@
 package Interaction
 
-import DatabaseInteraction
 import author
 import books
 import genre

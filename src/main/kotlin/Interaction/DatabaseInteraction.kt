@@ -1,3 +1,5 @@
+package Interaction
+
 import org.jetbrains.exposed.sql.ResultRow
 
 interface DatabaseInteraction {
